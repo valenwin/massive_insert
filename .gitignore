@@ -92,3 +92,4 @@ ENV/
 .idea
 .DB_store
 /venv
+.DS_Store
