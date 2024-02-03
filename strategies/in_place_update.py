@@ -1,6 +1,6 @@
 import psycopg2
 
-from conn import connection_pool, main
+from utils import connection_pool, main
 
 
 def in_place_update_counter():

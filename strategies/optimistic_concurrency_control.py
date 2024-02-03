@@ -1,6 +1,6 @@
 import psycopg2
 
-from conn import main, conn_params
+from utils import main, conn_params
 
 
 def increment_counter_with_occ():
